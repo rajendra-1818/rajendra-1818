@@ -22,7 +22,7 @@ My work focuses on **microservices architecture, cloud integrations (AWS & GCP),
 
 ## 💼 Work Experience
 
-### **Software Developer – DaVita Kidney Care** *(Aug 2023 – Jul 2025)*
+### **Software Developer – DaVita Kidney Care** *(Aug 2023 – Present)*
 - Upgraded microservices from **Java 11 → 21** and **Spring Boot 2.x → 3.x**, improving performance and compatibility
 - Integrated **Keycloak & OAuth** for authentication across enterprise systems
 - Enhanced Kafka pipelines to improve data reliability and throughput
