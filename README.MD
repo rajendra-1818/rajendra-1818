@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sri Rajendra Dabburi
 
-🎯 **Software Engineer | Java Developer | Microservices & Cloud  Specialist**
+🎯 **Software Engineer | Java | Python | Microservices & Cloud  Specialist**
 
 Welcome to my GitHub!  
 I’m passionate about building **scalable, secure, and high-performance backend systems** using modern Java technologies.  
