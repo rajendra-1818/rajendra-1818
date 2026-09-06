@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Sri Rajendra Dabburi — Software Engineer at Meta</title>
+  <desc id="desc">Backend engineering, cloud systems, and applied AI. Previously DaVita and Amazon. A navy banner with blue and mint accents and a geometric SRD monogram.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#101C35"/><stop offset="1" stop-color="#080E1C"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="55" y1="0" x2="1160" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7AA9FF"/><stop offset="1" stop-color="#77E8C3"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(1030 170) rotate(90) scale(255)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#244E76" stop-opacity=".48"/><stop offset="1" stop-color="#0A1222" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#647995" opacity=".18"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="360" rx="20" fill="url(#background)"/>
+  <rect x="1" y="1" width="1198" height="358" rx="19" stroke="#273852"/>
+  <path d="M22 1H1178" stroke="url(#accent)" stroke-width="3"/>
+  <rect x="840" y="2" width="358" height="356" rx="20" fill="url(#grid)"/>
+  <rect x="800" y="2" width="398" height="356" rx="20" fill="url(#glow)"/>
+  <g font-family="DejaVu Sans, Arial, sans-serif">
+    <text x="56" y="57" fill="#94B4E9" font-size="15" font-weight="700" letter-spacing="3">BACKEND / CLOUD / APPLIED AI</text>
+    <text x="52" y="131" fill="#F2F6FF" font-size="59" font-weight="700" letter-spacing="-2">Sri Rajendra</text>
+    <text x="52" y="197" fill="#F2F6FF" font-size="59" font-weight="700" letter-spacing="-2">Dabburi<tspan fill="#77E8C3">.</tspan></text>
+    <rect x="56" y="222" width="343" height="40" rx="20" fill="#172F39" stroke="#315B58"/>
+    <circle cx="78" cy="242" r="4" fill="#77E8C3"/>
+    <text x="94" y="248" fill="#B4F5DE" font-size="18" font-weight="600">Software Engineer @ Meta</text>
+    <text x="57" y="310" fill="#A9B7CE" font-size="18">Java + Python<tspan dx="14" fill="#536985">/</tspan><tspan dx="14">Previously DaVita &amp; Amazon</tspan></text>
+  </g>
+  <g transform="translate(1010 172)">
+    <circle r="126" stroke="#335070" stroke-dasharray="3 10" opacity=".7"/>
+    <circle r="98" stroke="#29445F"/>
+    <rect x="-72" y="-72" width="144" height="144" rx="31" transform="rotate(-12)" fill="#15263D" stroke="#456990"/>
+    <rect x="-65" y="-65" width="130" height="130" rx="27" fill="#0D1C30" stroke="#7AA9FF" stroke-opacity=".55"/>
+    <path d="M-45-16-57 0-45 16M45-16 57 0 45 16" stroke="#77E8C3" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="0" y="11" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="1" fill="#F2F6FF">SRD</text>
+    <circle cx="0" cy="-98" r="6" fill="#7AA9FF"/>
+    <circle cx="98" cy="0" r="6" fill="#77E8C3"/>
+    <circle cx="-89" cy="44" r="4" fill="#7AA9FF"/>
+  </g>
+  <text x="1010" y="331" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-size="12" letter-spacing="3" fill="#8AA3C5">CODE. CONNECT. BUILD.</text>
+</svg>

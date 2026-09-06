@@ -1,102 +1,112 @@
-👋 Hi, I'm Sri Rajendra Dabburi
+<p align="center">
+  <img src="./assets/profile-banner.svg" width="100%" alt="Sri Rajendra Dabburi — Software Engineer at Meta. Backend, cloud, and applied AI. Previously DaVita and Amazon." />
+</p>
 
-🎯 Backend Software Engineer | Java · Spring Boot · Kafka · Microservices · Cloud
+<p align="center">
+  <strong>Building reliable backends. Exploring intelligent systems.</strong>
+</p>
 
-Welcome to my GitHub!
+<p align="center">
+  <a href="https://www.linkedin.com/in/sri-rajendra/"><strong>LinkedIn ↗</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://sri-rajendra.rajendra1818.chatgpt.site/"><strong>Portfolio ↗</strong></a>
+  &nbsp; · &nbsp;
+  <a href="mailto:rajendradabburi@gmail.com"><strong>Email ↗</strong></a>
+  &nbsp; · &nbsp;
+  <a href="#selected-projects"><strong>Projects ↓</strong></a>
+</p>
 
-I build scalable, secure, and high-performance backend systems using modern Java technologies. My work centers on microservices architecture, event-driven systems with Kafka, and cloud-native deployments on AWS and GCP.
+---
 
+## A little about me
 
-🚀 About Me
+I'm **Sri Rajendra**, a software engineer based in **Overland Park, Kansas**. I work across backend systems, cloud services, and AI engineering workflows, with experience at **Meta, DaVita, and Amazon**.
 
+At **Meta**, I support GenAI initiatives through **Python development, data pipelines, automation, and tooling for AI model training workflows**. My foundation is in Java, Spring Boot, event-driven services, and turning complex integrations into maintainable software.
 
-💻 Backend engineer building and modernizing enterprise healthcare platforms
-🧩 Strong expertise in Java (8–21), Spring Boot, REST APIs, Gradle/Maven, Docker, and Kafka
-☁️ Experienced across AWS & GCP for scalable, reliable deployments
-🔐 Secured enterprise microservices with Keycloak & OAuth
-🗄️ Hands-on with PostgreSQL, MongoDB, and Redis across production and coursework
-🔍 Proficient in observability and debugging with Dynatrace, Kibana, and Splunk
-🧠 Pursuing an M.S. in Computer Science @ University of Central Missouri (GPA 3.83, expected Dec 2026)
+I care about **reliability, clear APIs, developer experience, and useful automation**. Alongside work, I'm pursuing an **M.S. in Computer Science at the University of Central Missouri**, with graduation expected in **December 2026**.
 
+## Experience
 
+| Where | When | Engineering focus |
+| :--- | :--- | :--- |
+| **Meta**<br>Software Engineer | Aug 2026 – Present | Python, GenAI data pipelines, automation, tooling, and workflows supporting AI model training. |
+| **DaVita Kidney Care**<br>Software Developer | Aug 2023 – Aug 2026 | Healthcare integrations; Java 11 → 21 and Spring Boot 2 → 3 modernization; Kafka pipelines; authentication with Keycloak and OAuth. |
+| **Amazon Web Services**<br>Software Development Engineer | Aug 2022 – Aug 2023 | REST APIs and cloud services on EC2, S3, and Lambda, with CloudWatch monitoring and a focus on fault tolerance. |
 
-💼 Work Experience
+## Selected projects
 
-Software Engineer – DaVita Kidney Care (Aug 2023 – Present)
+Three independent repositories with source code, setup instructions, and automated checks.
 
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>01 · Orderflow API</h3>
+      <p><strong>Java · Spring Boot · JUnit</strong></p>
+      <p>An order workflow API with request validation, precise totals, atomic state transitions, filtering, and integration tests.</p>
+      <p><sub>Demonstrates API design and business rules. Uses in-memory storage.</sub></p>
+      <p><a href="https://github.com/rajendra-1818/orderflow-api"><strong>Explore repository →</strong></a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>02 · DocuFlow AI</h3>
+      <p><strong>Python · FastAPI · SQLite</strong></p>
+      <p>A local document search API with persistent storage, TF-IDF ranking, scored excerpts, and retrieval tests.</p>
+      <p><sub>Demonstrates a testable retrieval pipeline. Uses lexical search, without an LLM.</sub></p>
+      <p><a href="https://github.com/rajendra-1818/docuflow-ai"><strong>Explore repository →</strong></a></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>03 · OpsBoard</h3>
+      <p><strong>React · TypeScript · Vite</strong></p>
+      <p>A responsive operations dashboard with service search, health filters, incident views, and CSV export.</p>
+      <p><sub>Demonstrates frontend interaction and typed UI development. Uses fictional sample data.</sub></p>
+      <p><a href="https://github.com/rajendra-1818/opsboard-react"><strong>Explore repository →</strong></a></p>
+    </td>
+  </tr>
+</table>
 
-Build and maintain Java & Spring Boot microservices on the IKC platform supporting care-team coordination and clinical data exchange
-Upgraded services from Java 11 → 21 and Spring Boot 2.x → 3.x, improving performance, security, and maintainability
-Enhanced Care Team APIs to surface provider home location, phone, and fax details by integrating teammate data from internal EDS services
-Improved Kafka pipelines for higher reliability and throughput on high-volume healthcare data
-Refactored service-layer logic into dedicated mapper components, improving testability and code clarity
-Integrated Keycloak & OAuth for authentication across enterprise systems
-Built a QR-based Infobip SMS system for patient notifications and automated dashboards with Tableau APIs
+## Engineering toolkit
 
+| Area | Technologies |
+| :--- | :--- |
+| **Languages** | Java · Python · SQL · JavaScript · TypeScript |
+| **Backend & APIs** | Spring Boot · Spring MVC · REST · OpenAPI · FastAPI |
+| **Events & integration** | Apache Kafka · Amazon SQS · SNS · API Gateway |
+| **Cloud & containers** | AWS · GCP · Docker · Kubernetes |
+| **Data** | PostgreSQL · MongoDB · Redis · SQLite |
+| **Security** | OAuth 2.0 · JWT · Keycloak |
+| **Testing & delivery** | JUnit · MockMvc · pytest · GitHub Actions · Jenkins · Gradle · Maven · Git |
+| **Observability** | CloudWatch · Dynatrace · Kibana · Splunk |
+| **Recent project work** | React · TypeScript · Vite · FastAPI · scikit-learn · TF-IDF retrieval |
 
-Software Development Engineer – Amazon (Austin, TX) (Aug 2022 – Aug 2023)
+## What I'm exploring
 
+- **Applied AI:** retrieval-augmented generation, LLM applications, Claude API, Amazon Bedrock, and MongoDB AI tooling.
+- **Backend & platform engineering:** distributed systems, event-driven architectures, reliability, and developer tooling.
+- **Cloud systems:** Spring Cloud, Kubernetes, and maintainable service design.
 
-Designed scalable REST APIs and deployed microservices on AWS (EC2, S3, Lambda)
-Built resilient, cloud-native systems with advanced logging, monitoring, and alerting
-Improved fault tolerance using AWS CloudWatch and optimized cloud costs
+<details>
+  <summary><strong>Education & continued learning</strong></summary>
 
+### Education
 
+- **M.S. in Computer Science** — University of Central Missouri · Expected December 2026
+- **B.S. in Computer Science** — University of Central Missouri · 2022 · Cum Laude
 
-🧰 Skills & Technologies
+### Certifications & courses
 
-Languages: Java, Python, SQL, JavaScript
+- Building with the Claude API
+- Claude with Amazon Bedrock
+- Building RAG Apps Using MongoDB
+- Building AI Agents with MongoDB
+- AWS Academy Cloud Developing
+- DevOps with AWS
+- Fundamentals of Machine Learning and Artificial Intelligence
 
-Frameworks & Tools: Spring Boot, Kafka, Docker, Kubernetes, Keycloak, Gradle, Maven, Swagger (OpenAPI 3), Tableau APIs, Cloud CMS
+</details>
 
-Databases: PostgreSQL, MongoDB, Redis, RDBMS
+---
 
-Cloud: AWS, GCP
-
-Monitoring: Dynatrace, Kibana, Splunk
-
-Version Control & CI/CD: Git, GitHub, Bitbucket, Jenkins
-
-Other: Agile (Scrum), RESTful Architecture, Microservices, JSON, XML
-
-
-📜 Certifications
-
-
-AWS Academy Cloud Developing
-DevOps with AWS
-Fundamentals of Machine Learning and Artificial Intelligence
-Building AI Agents with MongoDB
-Building RAG Apps Using MongoDB
-Building with the Claude API
-Claude with Amazon Bedrock
-
-
-
-🎓 Education
-
-🎓 Master’s in Computer Science, University of Central Missouri (expected Dec 2026)
-
-🎓 Bachelor’s in Computer Science, University of Central Missouri (2022, Cum Laude, GPA 3.75)
-
-
-🌱 Currently Exploring
-
-
-Spring Cloud & Kubernetes
-Cloud-native design patterns
-NoSQL systems (MongoDB, Redis) and AI tooling (Claude API, Amazon Bedrock)
-System design for large-scale distributed systems
-
-
-
-📫 Let’s Connect
-
-
-💼 LinkedIn
-✉️ rajendradabburi@gmail.com
-🌎 Based in Overland Park, Kansas
-
-
-
-⭐️ Thanks for visiting my profile! Feel free to explore my repositories and connect
+<p align="center">
+  <strong>Let's build something useful.</strong><br>
+  Interested in backend, platform, or GenAI engineering? <a href="mailto:rajendradabburi@gmail.com">Let's connect.</a>
+</p>
