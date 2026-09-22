@@ -30,8 +30,8 @@ I care about **reliability, clear APIs, developer experience, and useful automat
 
 | Where | When | Engineering focus |
 | :--- | :--- | :--- |
-| **Meta**<br>Software Engineer | Aug 2026 – Present | Python, GenAI data pipelines, automation, tooling, and workflows supporting AI model training. |
-| **DaVita Kidney Care**<br>Software Developer | Aug 2023 – Aug 2026 | Healthcare integrations; Java 11 → 21 and Spring Boot 2 → 3 modernization; Kafka pipelines; authentication with Keycloak and OAuth. |
+| **Meta**<br>Software Engineer | Aug 2025 – Present | Python, GenAI data pipelines, automation, tooling, and workflows supporting AI model training. |
+| **DaVita Kidney Care**<br>Software Developer | Aug 2023 – Jul 2025 | Healthcare integrations; Java 11 → 21 and Spring Boot 2 → 3 modernization; Kafka pipelines; authentication with Keycloak and OAuth. |
 | **Amazon Web Services**<br>Software Development Engineer | Aug 2022 – Aug 2023 | REST APIs and cloud services on EC2, S3, and Lambda, with CloudWatch monitoring and a focus on fault tolerance. |
 
 ## Selected projects
